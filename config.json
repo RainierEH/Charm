@@ -1,0 +1,19 @@
+{
+    "config": {
+      "token": "ODU0NTE0NTY2MjM4Njk5NTMx.YMlCtA.qn6RnXSXDyPBwmOEat7JN3XbdrM",
+      "dUserPrefix": "?",
+      "dUserGame": 0,
+      "dUserStatus": "Testing my bot",
+      "dEmbedColor": "0xC8B7B7",
+      "dJoinMessage": "This is a little test of the join message!",
+      "dWarnKLimit": 3,
+      "dWarnBLimit": 5,
+      "dAutoWarn": 0
+    },
+    "data": {
+      "warns": 0,
+      "kicks": 0,
+      "bans" : 0,
+      "mutes" : 0
+    }
+}

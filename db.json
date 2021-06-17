@@ -1,0 +1,30 @@
+{
+  "User ID": {
+    "warns": [
+      "Randomly generated UUID to allow as many warns as I want to be created per user",
+      "Warn Date",
+      "Warn Reason",
+      "Warn Number [Not implemented yet, tomorrow]"
+    ],
+    "warnCount": 2,
+    "mutes": 0,
+    "kicks": 0
+  },
+  "[User ID blocked for privacy]": {
+    "warns": {
+      "28fd1c17-249c-42e4-92ae-83b7216056c7": [
+        "2021-06-15",
+        "see?",
+        0
+      ],
+      "2f4219a0-115a-4b46-a3ab-399e1a77bf83": [
+        "2021-06-15",
+        "like this",
+        0
+      ]
+    },
+    "warnCount": 2,
+    "mutes": 0,
+    "kicks": 0
+  }
+}
